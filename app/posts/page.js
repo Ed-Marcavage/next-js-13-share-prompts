@@ -1,7 +1,12 @@
 import React from 'react';
 
+// SSR
+// SSG
+// ISR
+
+
 const page = () => {
-    return ( );
+    return (<></>);
 }
 
 export default page;
